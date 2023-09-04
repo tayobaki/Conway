@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Tiempos-Font;
+    src: url("/Tiempos-Font/TiemposHeadline-Regular.otf") format("opentype");
+}
